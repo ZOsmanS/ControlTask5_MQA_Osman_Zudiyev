@@ -1,0 +1,334 @@
+Date: Wed, 15 Nov 2023 13:38:03 +0000 (UTC)
+Message-ID: <73956412.1.1700055483257@e34bd0f273e5>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_0_1684479838.1700055483244"
+
+------=_Part_0_1684479838.1700055483244
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Mind map</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Mind map</h1>
+    <div class=3D"Section1">
+        <p>=D0=A1=D1=81=D1=8B=D0=BB=D0=BA=D0=B0 <a href=3D"https://drive.go=
+ogle.com/file/d/1YyHGw0G9JqTyC15MZisFyaMRjHMuzDNd/view?usp=3Ddrive_link" da=
+ta-card-appearance=3D"inline" class=3D"external-link" rel=3D"nofollow">http=
+s://drive.google.com/file/d/1YyHGw0G9JqTyC15MZisFyaMRjHMuzDNd/view?usp=3Ddr=
+ive_link</a> </p><span class=3D"confluence-embedded-file-wrapper image-cent=
+er-wrapper confluence-embedded-manual-size"><img class=3D"confluence-embedd=
+ed-image image-center" width=3D"468" loading=3D"lazy" src=3D"047c1badeb5ce1=
+1eff28214cb6070053" data-image-src=3D"https://zos1983.atlassian.net/wiki/do=
+wnload/attachments/917505/Etsy_Mind%20Map%20.jpg?version=3D1&amp;modificati=
+onDate=3D1699430478578&amp;cacheVersion=3D1&amp;api=3Dv2" data-height=3D"10=
+15" data-width=3D"1538" data-unresolved-comment-count=3D"0" data-linked-res=
+ource-id=3D"917520" data-linked-resource-version=3D"1" data-linked-resource=
+-type=3D"attachment" data-linked-resource-default-alias=3D"Etsy_Mind Map .j=
+pg" data-base-url=3D"https://zos1983.atlassian.net/wiki" data-linked-resour=
+ce-content-type=3D"image/jpeg" data-linked-resource-container-id=3D"917505"=
+ data-linked-resource-container-version=3D"1" data-media-id=3D"5b484610-fe8=
+3-4a63-ad99-895413a52db1" data-media-type=3D"file" height=3D"308"></span>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_0_1684479838.1700055483244
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/047c1badeb5ce11eff28214cb6070053
+
+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
+------=_Part_0_1684479838.1700055483244--
